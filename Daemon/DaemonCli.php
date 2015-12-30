@@ -19,7 +19,7 @@ $daemonName = $argv[1];
 $MaxProcess = isset($argv[3]) ? $argv[3] : 2;
 $MaxRequestPerChild = isset($argv[4]) ? $argv[4] : 10;
 
-$className = 'AT_Srv_Daemon_' . ucfirst($daemonName) . '_Daemon';
+$className = 'AT_Srv_Daemon_' . ucfirst($daemonName) . '_index';
 AT_Srv_Loader::loadClass($className);
 $daemon = new $className($daemonName, $MaxProcess, $MaxRequestPerChild);
 if (!file_exists(SRV_DAEMON_FLAG_DIR) && !mkdir(SRV_DAEMON_FLAG_DIR)) {

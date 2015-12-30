@@ -15,7 +15,7 @@ require_once dirname(__FILE__) . '/../../vendor/predis/predis/src/Autoloader.php
 
 Predis\Autoloader::register();
 
-class AT_Srv_Daemon_TestUi_Daemon extends AT_Srv_Daemon
+class AT_Srv_Daemon_TestUi_index extends AT_Srv_Daemon
 {
     /**
      *重写构造函数，设置特定的最大子进程数和处理数，如果不需要设置，此方法可以直接继承，不需要重写
