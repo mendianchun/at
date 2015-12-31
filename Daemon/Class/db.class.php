@@ -21,11 +21,11 @@ class db {
         $this->time = $time;
         $this->tablepre = $tablepre;
         if($pconnect) {
-            if(!$this->link = mysql_pconnect($dbhost, $dbuser, $dbpw)) {
+            if(!$this->link = @mysql_pconnect($dbhost, $dbuser, $dbpw)) {
                 $this->halt('Can not connect to MySQL server');
             }
         } else {
-            if(!$this->link = mysql_connect($dbhost, $dbuser, $dbpw, 1)) {
+            if(!$this->link = @mysql_connect($dbhost, $dbuser, $dbpw)) {
                 $this->halt('Can not connect to MySQL server');
             }
         }
