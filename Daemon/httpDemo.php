@@ -1,6 +1,6 @@
 <?php
 
-require('Class/HttpRequest.class.php');
+require('Class/Http.class.php');
 
 $config = array(
             'ip' => 'demo.fdipzone.com', // 如空则用host代替
