@@ -10,7 +10,7 @@
  * ************************************************
  */
 
-require_once dirname(__FILE__) . '/../Core/Core.php';
+require_once dirname(__FILE__) . '/../core/Core.php';
 declare(ticks=1);
 abstract class AT_Srv_Daemon
 {
@@ -27,7 +27,10 @@ abstract class AT_Srv_Daemon
     protected $stopFlag = NULL;
     /**
      *
-     * @var string Daemon名称
+     * @var string
+     *
+     *
+     * Daemon名称
      */
     protected $daemonName = NULL;
     /**
@@ -62,7 +65,7 @@ abstract class AT_Srv_Daemon
     public function __construct($daemonName)
     {
         //加载daemon常量
-        require_once 'Daemon/Config/Daemon.conf.php';
+        require_once 'daemon/config/Daemon.conf.php';
         //daemon名
         $this->daemonName = $daemonName;
         //启动标记文件

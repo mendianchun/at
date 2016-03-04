@@ -455,6 +455,9 @@ class Http
         $host = $bits['host'];
         $port = isset($bits['port']) ? $bits['port'] : ('https' == $scheme ? 443 : 80);
         $path = isset($bits['path']) ? $bits['path'] : '/';
+        if (isset($bits['query'])) {
+            $path .= '?' . $bits['query'];
+        }
         $this->setAddr($scheme, $host, $port);
         return $this->doPost($path, $data);
     }

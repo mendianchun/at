@@ -10,8 +10,8 @@
  * ************************************************
  */
 
-require dirname(__FILE__) . '/../Core/Core.php';
-require_once 'Core/Loader.php';
+require dirname(__FILE__) . '/../core/Core.php';
+require_once dirname(__FILE__) . '/../core/Loader.php';
 if (empty($argv[1])) {
     die("Usage: php " . __FILE__ . ' daemonName start|stop');
 }

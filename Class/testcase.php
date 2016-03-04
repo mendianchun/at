@@ -18,7 +18,7 @@ class testcase
 
     public function __construct($UIname)
     {
-        $this->casefile = dirname(__FILE__) . '/case/' . $UIname;
+        $this->casefile = $UIname;
     }
 
     public function getdata()

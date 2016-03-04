@@ -11,9 +11,9 @@
 error_reporting(0);
 require dirname(__FILE__) . '/../../vendor/autoload.php';
 require dirname(__FILE__) . '/../../vendor/predis/predis/src/Autoloader.php';
-require dirname(__FILE__) . '/testcase.php';
-require dirname(__FILE__) . '/config/config.php';
-require dirname(__FILE__) . '/../Class/db.class.php';
+require dirname(__FILE__) . '/../../class/testcase.php';
+require dirname(__FILE__) . '/../../config/testUI/config.php';
+require dirname(__FILE__) . '/../../class/db.class.php';
 
 Predis\Autoloader::register();
 
@@ -26,7 +26,7 @@ foreach ($fileArray as $file) {
         continue;
     }
     $count = 0;
-    $testcase = new testcase($file);
+    $testcase = new testcase($_config['case_dir'].$file);
     $case_data = $testcase->getdata();
     //插入队列
     if (is_array($case_data)) {
