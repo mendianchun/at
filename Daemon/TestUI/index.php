@@ -12,7 +12,7 @@
 require_once dirname(__FILE__) . '/../../Daemon/Daemon.php';
 require_once dirname(__FILE__) . '/../../vendor/autoload.php';
 require_once dirname(__FILE__) . '/../../vendor/predis/predis/src/Autoloader.php';
-require_once dirname(__FILE__) . '/../Class/Http.class.php';
+require_once dirname(__FILE__) . '/../../class/Http.class.php';
 
 Predis\Autoloader::register();
 
@@ -35,7 +35,7 @@ class AT_Srv_Daemon_TestUi_index extends AT_Srv_Daemon
      */
     function daemonFunc()
     {
-        require dirname(__FILE__) . '/config/config.php';
+        require dirname(__FILE__) . '/../../config/testUI/config.php';
         $redis = new Predis\Client ($_config['redis_server']);
         $http = new Http();
 
@@ -84,7 +84,7 @@ class AT_Srv_Daemon_TestUi_index extends AT_Srv_Daemon
 
                 //$result =array();
 
-                file_put_contents(realpath(dirname(__FILE__)) . '/../../output/demo.log',  $res_test.'|'.$result.'|'.$res.'|'.$url.'|'.json_encode($formdata)  . "\n", FILE_APPEND);
+                file_put_contents(realpath(dirname(__FILE__)) . '/../../output/testUI.log',  $res_test.'|'.$result.'|'.$res.'|'.$url.'|'.json_encode($formdata)  . "\n", FILE_APPEND);
             }
 
             //增加处理数,不增加处理数，就需要子进程本身有退出机制。
