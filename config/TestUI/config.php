@@ -29,5 +29,3 @@ $_config = array(
     'mail_to' => 'mendianchun@acttao.com;yanzhangqian@acttao.com;chenyawei@acttao.com',
     'branch' => 'damen'
 );
-
-
