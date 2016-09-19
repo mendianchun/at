@@ -93,7 +93,6 @@ class AT_Srv_Daemon_TestUi_index extends AT_Srv_Daemon
             usleep(5000);
         }
     }
-
 }
 
 /* End of file demoDaemon */
