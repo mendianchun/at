@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f80778-8edb-4cdc-8971-5faef9d283c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/testUI/config.php" afterPath="$PROJECT_DIR$/config/testUI/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b0f80778-8edb-4cdc-8971-5faef9d283c3" name="Default" comment="" />
     <ignored path="at.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -512,7 +509,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1410" height="877" extended-state="0" />
+    <frame x="30" y="23" width="1410" height="877" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25657895" sideWeight="0.49234137" order="0" side_tool="false" content_ui="combo" />
