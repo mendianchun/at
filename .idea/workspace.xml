@@ -2,387 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f80778-8edb-4cdc-8971-5faef9d283c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/testUI/1.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.scrutinizer.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/at.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/extending.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/fakepopserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/fakesendmail.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/generatedocs.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/pop3_article.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/testUI/run.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/runfakepopserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemon/testUI/summary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/test_callback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/testUI/testcase.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Daemon/TestUI/case/1.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TestUI.pid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/daemon/httpDemo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/daemon/testUI.pid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/daemon/testUI/TestUI.pid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/demo.log" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/Class/Http.class.php" afterPath="$PROJECT_DIR$/class/Http.class.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/Class/db.class.php" afterPath="$PROJECT_DIR$/class/db.class.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/config/config.php" afterPath="$PROJECT_DIR$/config/testUI/config.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Autoloader.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Autoloader.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/APC.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/APC.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/ICache.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/ICache.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/Memcache.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/Memcache.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/Memory.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/Memory.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/SQLite.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/SQLite.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorage/Wincache.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorage/Wincache.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CachedObjectStorageFactory.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CachedObjectStorageFactory.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/CalcEngine/Logger.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/CalcEngine/Logger.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Database.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Database.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/DateTime.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/DateTime.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Engineering.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Engineering.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Exception.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Exception.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/ExceptionHandler.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/ExceptionHandler.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Financial.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Financial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/FormulaParser.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/FormulaParser.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/FormulaToken.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/FormulaToken.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Function.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Function.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Functions.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Functions.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Logical.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Logical.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/LookupRef.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/LookupRef.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/MathTrig.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/MathTrig.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Statistical.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Statistical.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/TextData.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/TextData.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/Token/Stack.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/Token/Stack.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Calculation/functionlist.txt" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Calculation/functionlist.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell/AdvancedValueBinder.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell/AdvancedValueBinder.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell/DataType.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell/DataType.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell/DataValidation.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell/DataValidation.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell/DefaultValueBinder.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell/DefaultValueBinder.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell/Hyperlink.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell/Hyperlink.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Cell/IValueBinder.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Cell/IValueBinder.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/DataSeries.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/DataSeries.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/DataSeriesValues.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/DataSeriesValues.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/Exception.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/Exception.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/Layout.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/Layout.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/Legend.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/Legend.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/PlotArea.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/PlotArea.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/Renderer/jpgraph.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/Renderer/jpgraph.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Chart/Title.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Chart/Title.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Comment.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Comment.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/DocumentProperties.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/DocumentProperties.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/DocumentSecurity.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/DocumentSecurity.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Exception.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Exception.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/HashTable.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/HashTable.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/IComparable.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/IComparable.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/IOFactory.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/IOFactory.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/NamedRange.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/NamedRange.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Abstract.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Abstract.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/CSV.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/CSV.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/DefaultReadFilter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/DefaultReadFilter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel2003XML.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel2003XML.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel2007.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel2007.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel2007/Chart.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel2007/Chart.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel2007/Theme.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel2007/Theme.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel5.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel5.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel5/Escher.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel5/Escher.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel5/MD5.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel5/MD5.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Excel5/RC4.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Excel5/RC4.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Exception.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Exception.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/Gnumeric.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/Gnumeric.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/HTML.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/HTML.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/IReadFilter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/IReadFilter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/IReader.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/IReader.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/OOCalc.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/OOCalc.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Reader/SYLK.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Reader/SYLK.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/ReferenceHelper.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/ReferenceHelper.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/RichText.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/RichText.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/RichText/ITextElement.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/RichText/ITextElement.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/RichText/Run.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/RichText/Run.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/RichText/TextElement.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/RichText/TextElement.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Settings.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Settings.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/CodePage.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/CodePage.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Date.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Date.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Drawing.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Drawing.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DgContainer.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DgContainer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DggContainer.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DggContainer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Excel5.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Excel5.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/File.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/File.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/Font.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/Font.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/Matrix.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/Matrix.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/utils/Error.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/utils/Error.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/JAMA/utils/Maths.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/JAMA/utils/Maths.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/OLE.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/OLE.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/OLE/PPS.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/OLE/PPS.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/OLE/PPS/File.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/OLE/PPS/File.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/OLE/PPS/Root.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/OLE/PPS/Root.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/OLERead.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/OLERead.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/PCLZip/readme.txt" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/PCLZip/readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/PasswordHasher.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/PasswordHasher.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/String.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/String.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/TimeZone.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/TimeZone.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/XMLWriter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/XMLWriter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/ZipArchive.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/ZipArchive.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/ZipStreamWrapper.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/ZipStreamWrapper.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/bestFitClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/bestFitClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/linearBestFitClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/linearBestFitClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/powerBestFitClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/powerBestFitClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Shared/trend/trendClass.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Shared/trend/trendClass.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Alignment.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Alignment.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Border.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Border.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Borders.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Borders.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Color.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Color.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Conditional.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Conditional.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Fill.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Fill.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Font.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Font.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/NumberFormat.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/NumberFormat.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Protection.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Protection.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Style/Supervisor.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Style/Supervisor.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/AutoFilter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/AutoFilter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/AutoFilter/Column.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/AutoFilter/Column.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/BaseDrawing.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/BaseDrawing.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/CellIterator.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/CellIterator.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/ColumnDimension.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/ColumnDimension.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/Drawing.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/Drawing.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/HeaderFooter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/HeaderFooter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/MemoryDrawing.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/MemoryDrawing.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/PageMargins.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/PageMargins.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/PageSetup.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/PageSetup.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/Protection.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/Protection.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/Row.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/Row.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/RowDimension.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/RowDimension.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/RowIterator.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/RowIterator.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Worksheet/SheetView.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Worksheet/SheetView.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/WorksheetIterator.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/WorksheetIterator.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Abstract.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Abstract.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/CSV.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/CSV.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Chart.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Chart.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Comments.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Comments.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/DocProps.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/DocProps.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Drawing.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Drawing.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Rels.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Rels.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/StringTable.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/StringTable.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Style.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Style.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Theme.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Theme.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Workbook.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Workbook.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/Worksheet.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/Worksheet.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel2007/WriterPart.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel2007/WriterPart.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/Escher.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/Escher.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/Font.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/Font.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/Parser.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/Parser.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/Workbook.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/Workbook.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/Worksheet.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/Worksheet.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Excel5/Xf.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Excel5/Xf.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/Exception.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/Exception.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/HTML.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/HTML.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/IWriter.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/IWriter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/PDF.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/PDF.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/PDF/Core.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/PDF/Core.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/PDF/DomPDF.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/PDF/DomPDF.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/PDF/mPDF.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/PDF/mPDF.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/Writer/PDF/tcPDF.php" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/Writer/PDF/tcPDF.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/bg/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/bg/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/cs/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/cs/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/cs/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/cs/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/da/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/da/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/da/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/da/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/de/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/de/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/de/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/de/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/en/uk/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/en/uk/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/es/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/es/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/es/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/es/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/fi/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/fi/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/fi/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/fi/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/fr/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/fr/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/fr/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/fr/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/hu/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/hu/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/hu/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/hu/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/it/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/it/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/it/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/it/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/nl/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/nl/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/nl/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/nl/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/no/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/no/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/no/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/no/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/pl/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/pl/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/pl/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/pl/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/pt/br/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/pt/br/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/pt/br/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/pt/br/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/pt/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/pt/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/pt/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/pt/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/ru/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/ru/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/ru/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/ru/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/sv/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/sv/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/sv/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/sv/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/tr/config" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/tr/config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daemon/TestUI/excel/Classes/PHPExcel/locale/tr/functions" afterPath="$PROJECT_DIR$/class/excel/Classes/PHPExcel/locale/tr/functions" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/daemon/testUI/testcase.php" afterPath="$PROJECT_DIR$/class/testcase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daemon/Daemon.php" afterPath="$PROJECT_DIR$/daemon/Daemon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daemon/DaemonCli.php" afterPath="$PROJECT_DIR$/daemon/DaemonCli.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daemon/testUI/index.php" afterPath="$PROJECT_DIR$/daemon/testUI/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daemon/testUI/init.php" afterPath="$PROJECT_DIR$/daemon/testUI/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="at.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -407,18 +27,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daemon/testUI/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daemon/testUI/run.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -427,19 +37,31 @@
       <file leaf-file-name="DaemonCli.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daemon/DaemonCli.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="summary.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daemon/testUI/summary.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.7896342">
-              <caret line="122" column="55" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="125" column="54" selection-start-line="125" selection-start-column="54" selection-end-line="125" selection-end-column="54" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daemon/testUI/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-59.375">
+              <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+              <folding>
+                <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -447,28 +69,50 @@
       <file leaf-file-name="Daemon.conf.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daemon/config/Daemon.conf.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/testUI/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.65585333">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#231#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/testUI/config.php">
+      <file leaf-file-name="Exception.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Exception.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Loader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -477,22 +121,10 @@
       <file leaf-file-name="Daemon.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daemon/Daemon.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.75">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="e#7#232#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daemon/testUI/init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="41" />
-              <folding>
-                <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
               </folding>
             </state>
           </provider>
@@ -530,9 +162,9 @@
         <option value="$PROJECT_DIR$/output/demo.log" />
         <option value="$PROJECT_DIR$/daemon/testUI/index.php" />
         <option value="$PROJECT_DIR$/daemon/testUI/testMail.php" />
-        <option value="$PROJECT_DIR$/config/testUI/config.php" />
         <option value="$PROJECT_DIR$/daemon/testUI/summary.php" />
         <option value="$PROJECT_DIR$/daemon/Daemon.php" />
+        <option value="$PROJECT_DIR$/config/testUI/config.php" />
       </list>
     </option>
   </component>
@@ -550,8 +182,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="30" />
     <option name="y" value="23" />
-    <option name="width" value="1250" />
-    <option name="height" value="777" />
+    <option name="width" value="1410" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -564,7 +196,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -576,7 +208,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -593,20 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="at" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="at" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="at" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -744,6 +361,39 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="at">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="at">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="config">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="testUI">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Tests" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -851,21 +501,30 @@
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1250" height="777" extended-state="6" />
-    <editor active="false" />
+    <frame x="30" y="23" width="1410" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25292397" sideWeight="0.49234137" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27966103" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24979855" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24853802" sideWeight="0.47483587" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27566224" sideWeight="0.50765866" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -904,11 +563,63 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/daemon/testUI/summary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/config/Daemon.conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/testUI/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#6#231#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/Daemon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#7#232#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/testUI/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/testUI/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#6#231#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -916,9 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-          <folding>
-            <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,7 +677,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#6#231#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -977,9 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,7 +730,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#6#231#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1031,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,20 +758,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daemon/Daemon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/Core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/Exception.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1104,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1112,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,15 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.1666665">
           <caret line="435" column="59" selection-start-line="435" selection-start-column="59" selection-end-line="435" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/testcase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.25">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,7 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.333333">
           <caret line="142" column="33" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1158,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,37 +845,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="81" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daemon/testUI/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/testUI/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daemon/config/Daemon.conf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/testUI/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Exception.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Loader.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1206,7 +888,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daemon/DaemonCli.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding />
         </state>
@@ -1214,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daemon/Daemon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.75">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="e#7#232#0#PHP" expanded="true" />
@@ -1222,27 +904,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daemon/testUI/index.php">
+    <entry file="file://$PROJECT_DIR$/class/testcase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.5320122">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/config/Daemon.conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daemon/testUI/run.sh">
+    <entry file="file://$PROJECT_DIR$/daemon/testUI/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daemon/testUI/summary.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7896342">
-          <caret line="122" column="55" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="54" selection-start-line="125" selection-start-column="54" selection-end-line="125" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daemon/testUI/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-59.375">
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+          <folding>
+            <marker date="1452507866000" expanded="true" signature="2002:2044" placeholder="DROP TABLE I..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/testUI/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65585333">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#231#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
