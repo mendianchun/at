@@ -26,5 +26,6 @@ $_config = array(
     ),
     'case_dir' => dirname(__FILE__) . '/../../case/testUI/',
     'db_file' => dirname(__FILE__) . '/../../data/testUI/testcase.sql',
-    'mail_to' => 'mendianchun@acttao.com;yanzhangqian@acttao.com;chenyawei@acttao.com'
+    'mail_to' => 'mendianchun@acttao.com;yanzhangqian@acttao.com;chenyawei@acttao.com',
+    'branch' => 'damen'
 );
