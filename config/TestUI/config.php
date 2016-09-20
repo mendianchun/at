@@ -28,5 +28,6 @@ $_config = array(
     'db_file' => dirname(__FILE__) . '/../../data/testUI/testcase.sql',
     'mail_to' => 'mendianchun@acttao.com;yanzhangqian@acttao.com;chenyawei@acttao.com',
     'branch' => 'damen',
-    'rev_mobile' => '15XXXXXXXXX'
+    'rev_mobile' => '15XXXXXXXXX',
+    'function_one' => 11
 );
