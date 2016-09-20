@@ -30,5 +30,5 @@ $_config = array(
     'branch' => 'damen',
     'rev_mobile' => '15XXXXXXXXX',
     'function_one' => 11,
-    'function_two' => 2
+    'function_two' => 22
 );
