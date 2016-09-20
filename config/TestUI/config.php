@@ -29,5 +29,6 @@ $_config = array(
     'mail_to' => 'mendianchun@acttao.com;yanzhangqian@acttao.com;chenyawei@acttao.com',
     'branch' => 'damen',
     'rev_mobile' => '15XXXXXXXXX',
-    'function_one' => 11
+    'function_one' => 11,
+    'function_two' => 2
 );
